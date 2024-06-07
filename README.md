@@ -1,4 +1,4 @@
-# BoomBikes_rajveer_singh
+# BIKE SHARING
 
 General Information
 Multiple linear regression is performed on the dataset.
